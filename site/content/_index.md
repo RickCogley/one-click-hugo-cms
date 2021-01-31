@@ -1,7 +1,7 @@
 ---
 title: ハクビシン Great coffee with a conscience
 subtitle: 我が輩は猫である。Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: img/kylie-cogley-sakushima-logo.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
