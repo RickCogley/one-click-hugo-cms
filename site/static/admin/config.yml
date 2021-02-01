@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: RickCogley/one-click-hugo-cms
 
 site_url: https://nervous-turing-7446e7.netlify.app
 display_url: https://nervous-turing-7446e7.netlify.app
