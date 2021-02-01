@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
 
 site_url: https://nervous-turing-7446e7.netlify.app
 display_url: https://nervous-turing-7446e7.netlify.app
