@@ -1,12 +1,12 @@
 ---
-title: 日本語 A beginners’ guide to brewing with Chemex
+title: 日本語 A beginners’ guide to brewing with Chemexhh
 date: 2021-01-31T10:47:27.340Z
 description: 日本語もOK。Brewing with a Chemex probably seems like a complicated,
   time-consuming ordeal, but once you get used to the process, it becomes a
-  soothing ritual that's worth the effort every time.
+  soothing ritual that's worth the effort every time. どうだね？日本語OK?
 image: /img/blog-chemex.jpg
 ---
-我が輩は猫である。This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts*.
+我が輩は猫である。ほんとうにそうだにゃん。This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts*. <sup>1</sup>
 
 In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City. 
 
